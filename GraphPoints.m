@@ -1,5 +1,7 @@
-%Hopefully will be badass
 %Takes in locations and charge sign/magnitudes, makes 3d vector field
+%Maybe do a 3D line that follows a field line path?
+%plot3(x's, y's, z's)
+
 
 %Input units for the session
 format compact;
